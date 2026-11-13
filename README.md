@@ -2,17 +2,17 @@
 
 # 알고리즘 문제 정리
 
-| 폴더 | 문제 수 |
-|---|---|
-| [1_A](1_A/README.md) | 2 |
-| [2_AD](2_AD/README.md) | 12 |
-| [3_A_대비](3_A_대비/README.md) | 2 |
-| [4_연습](4_연습/README.md) | 17 |
+| 폴더 | 짐작 | 문제 수 |
+|---|---|---|
+| [1_A일지도](1_A일지도/README.md) | A일지도? | 2 |
+| [2_AD일지도](2_AD일지도/README.md) | AD일지도? | 12 |
+| [3_A에_나올지도](3_A에_나올지도/README.md) | A에 나올지도? | 2 |
+| [4_연습](4_연습/README.md) | 공개 연습 문제 | 17 |
 
 ## 실행
 
 모든 코드는 Python 3이고 표준 입력으로 읽습니다.
 
 ```bash
-python 1_A/편지/solution.py < 1_A/편지/input.txt
+python 1_A일지도/편지/solution.py < 1_A일지도/편지/input.txt
 ```
